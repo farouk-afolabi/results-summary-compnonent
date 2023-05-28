@@ -1,0 +1,41 @@
+:root{
+
+}
+
+
+
+html,body {
+    padding: 0;
+    margin: 0; 
+    scroll-behavior: smooth;
+}
+section{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 20px;
+    margin:20px;
+
+}
+    
+h1, h2, h3, h4, h5, h6 {
+    font-size: large;
+    font-family:'Hanken Grotesk',monospace ;
+}
+p{
+    font-size: 18px;
+}
+.s1{
+    background-color: hsl(252, 100%, 67%);
+    
+    
+}
+    
+}
+.attribution { 
+    font-size: 11px;
+     text-align: center;
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%);
+ }
